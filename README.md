@@ -1,5 +1,7 @@
 <h1>Calculadora</h1>
 
+<img src="https://github.com/Melissaydc/Calculadora/assets/112006578/a984d151-5c6a-4a94-846f-812a4d75490e" alt="Intellij"/>
+
   <h2>Título do Projeto</h2>
   <p>O projeto da Calculadora tem como objetivo implementar uma ferramenta para realizar operações aritméticas básicas.</p>
 
